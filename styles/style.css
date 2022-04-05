@@ -1,0 +1,25 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1 {
+    /* text-align: center; */
+    size: 50px;
+}
+
+form {
+    padding-bottom: 10px;
+}
+
+p {
+    size: 18px;
+}
+
+.orange {
+    color: black;
+    padding: 0, 5px;
+    font-weight: 700;
+    font-size: 18px;
+
+}
